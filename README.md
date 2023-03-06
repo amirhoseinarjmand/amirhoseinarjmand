@@ -1,4 +1,8 @@
-<h1 align="center">AmirHosein Arjmand</h>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Front+End+Developer;React+Developer;Next.js+Devloper;Computer+Engineer">
+</p>
+
+<h1 align="center">AmirHosein Arjmand</h1>
 
 <h4 align="center">I Am AmirHosein! A Front-End Developer... Welcome To My Github.</h4>
 
